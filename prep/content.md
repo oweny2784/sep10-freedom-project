@@ -19,8 +19,10 @@ Topic: **Visual Arts and Design**
   * Can pay if needed; however, it is available for free.
   * Can be used on iOS, Android, Chrome, Instagram, Facebook, Twitter
 * Krita
-  *
-  * [image text](image URL)
+  * Has language-changing sections
+  * Can donate to the website
+  * Entirely free and customizable with specific paint strokes.
+  * Can be used for animation
 
 ##### Hardware
 * Tech
