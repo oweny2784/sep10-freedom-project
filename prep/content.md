@@ -8,17 +8,17 @@ Topic: **Visual Arts and Design**
 ## Part A: Existing Technology
 
 ##### Software
-* Clip Studio Paint
+* Clip Studio Paint.net
   * Can be used on all devices
   * Has tutorials to start your art journey
   * Must pay for services
-* ArtStation
+* ArtStation.com
   * A website to share your art
   * Can find a job through the website
   * Can build a portfolio and sell your Art
   * Can pay if needed; however, it is available for free.
   * Can be used on iOS, Android, Chrome, Instagram, Facebook, Twitter
-* Krita
+* Krita.org
   * Has language-changing sections
   * Can donate to the website
   * Entirely free and customizable with specific paint strokes.
