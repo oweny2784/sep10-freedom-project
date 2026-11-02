@@ -25,9 +25,12 @@ Topic: **Visual Arts and Design**
   * Can be used for animation
 
 ##### Hardware
-* Tech
-  * Detail
-  * [image text](image URL)
+* Fiber optic cable
+  * Emits light
+  * Often used in art as a way to make things more interactive
+  * Can add detail to an artist's art
+  * Can range from 12 cents to 1 dollar per foot
+* 
 
 ## Part B: possible future technology
 * Idea
