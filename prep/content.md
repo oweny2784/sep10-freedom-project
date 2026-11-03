@@ -30,7 +30,16 @@ Topic: **Visual Arts and Design**
   * Often used in art as a way to make things more interactive
   * Can add detail to an artist's art
   * Can range from 12 cents to 1 dollar per foot
-* 
+* Pen display
+  * Acts like paper but in a digital form
+  * Unlike a pen tablet, you will be able to use the pen directly on the screen rather than on a touchpad
+  * Can be very pricey since they start at 200 dollars
+  * Ideally, you would want one around 10 inches to 32 inches
+  * Often used to help with drawing on apps like Adobe Photoshop and Clip Studio Paint
+* Pen tablet
+  * Smooth writing surface to transfer drawings to digital
+  * Costs 50-100 for a good one
+  * Mimics writing experience like a standard pen
 
 ## Part B: possible future technology
 * Idea
