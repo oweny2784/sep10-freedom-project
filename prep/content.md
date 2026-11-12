@@ -2,8 +2,7 @@
 Topic: **Visual Arts and Design**
 
 ## Overview/Introduction/Context
-* Text
-* Text
+Visual arts and design is a field that carves a path for artistry and is what becomes a hobby for some. On this site, you will see the past, present, and future of Art. This will take you to both physical and digital devices and what they are used for.
 
 ## Part A: Existing Technology
 
