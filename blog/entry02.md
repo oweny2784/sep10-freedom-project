@@ -1,7 +1,9 @@
 # Entry 2
-##### X/X/XX
+##### 11/16/26
 
-Text
+* Technology I have found
+  * I found technology through various websites, such as 
+
 
 [Previous](entry01.md) | [Next](entry03.md)
 
